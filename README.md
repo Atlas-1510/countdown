@@ -1,0 +1,1 @@
+Simple countdown application for MDN active learning exercise: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#Active_learning_Launch_countdown!
